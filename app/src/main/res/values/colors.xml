@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //CONFIGURACIÓN COLOR DE FONDO
+    <color name="simplebackgroundcolor">#E9967A </color>
+</resources>
